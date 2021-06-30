@@ -20,6 +20,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "body-parser": "^1.18.2",
+    "bson": "^4.4.0",
     "cors": "^2.8.4",
     "currency-symbol": "^1.0.6",
     "currency-symbol-map": "^4.0.4",
