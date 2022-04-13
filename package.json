@@ -18,7 +18,7 @@
     "nodemon": "*"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "body-parser": "^1.18.2",
     "bson": "^4.4.0",
     "cors": "^2.8.4",
